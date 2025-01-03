@@ -1,0 +1,24 @@
+Naive Bayes: classification algorithm that adopts the principle of class conditional independence from Bayes' theorem. This means that the presence of one feature does not impact the presence of another in the probability of an outcome, and each predictor has an equal effect on that result
+- Key points: independence assumption, simplicity and efficiency, good performance with small data
+- Includes: multinomial, Bernouli, and Gaussian Naive Bayes
+- Ex: Text classification, spam identification, and recommendation systems
+
+To-Do: 
+- text classification, spam identification(fast and computationally light), and recommendation system
+
+Linear Regression: used to identify the relationship between a continuous dependent variable and one or more independent variables. Typically used to make predictions about future outcomes
+- Key points: Interpretability in understanding relationships, efficiency, baseline model
+- Includes: Simple/Multi linear regression
+- Ex: Sales forecasting, pricing strategy, predicting patient outcomes, marketing campaign effectiveness, water quality
+
+Nonlinear Regression:
+
+Logistic Regression:
+
+Polynomial Regression:
+
+Support Vector Machine (SVM):
+
+K-nearest Neighbor:
+
+Random Forest:
